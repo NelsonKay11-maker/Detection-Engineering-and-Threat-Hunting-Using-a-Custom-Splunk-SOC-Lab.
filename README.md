@@ -3,7 +3,7 @@ Hello, I am Nelson a cybersecurity and technology enthusiast focused on academic
 I enjoy exploring how systems work, identifying security risks, and building tools and lab environments that improve detection, defence, and system resilience. My repositories include a mix of academic work, practical labs, and personal experiments as I continue developing my skills in cybersecurity. 
 
 PROJECT 1
-# Detection Engineering and Threat Hunting Using              
+# Detection Engineering and Threat Hunting Using a Custom Splunk SOC Lab.              
 A SOC lab environment built with Splunk SIEM to simulate and detect cyber threats using log analysis, correlation searches, dashboards, and MITRE ATT&amp;CK mapping for threat detection and investigation.
 All supporting project materials are hosted on Google Drive for reference and download: https://drive.google.com/file/d/1BYMwprcV_J61CPlBTIyuKKQD9d75O2kE/view?usp=sharing
 
