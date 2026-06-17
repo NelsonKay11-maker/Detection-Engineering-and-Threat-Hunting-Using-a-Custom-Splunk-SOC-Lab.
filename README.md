@@ -3,6 +3,14 @@
 All supporting project materials are hosted on Google Drive for reference and download: https://drive.google.com/file/d/1BYMwprcV_J61CPlBTIyuKKQD9d75O2kE/view?usp=sharing
 
 
+#Building and Defending a Hybrid Active Directory Environment in Azure Using Microsoft Sentinel and Splunk. 
+Hybrid Active Directory security monitoring lab using Splunk and Microsoft Sentinel.
+Simulates real-world cyber attacks including brute force, RDP, and PowerShell activity.
+Implements centralised logging, detection engineering, and incident monitoring.
+Demonstrates hybrid on-premises and cloud security architecture and threat detection.
+Link to Full Project: https://drive.google.com/file/d/16UFGF9C5SFEfCaTl0842h-yNanWWiyDI/view?usp=drive_link
+
+
 #OWASP-Based-Security-Analysis-of-the-Sonoff-S26R2TPG-Smart-Plug-in-an-IoT-System
 Security analysis of the Sonoff S26R2TPG smart plug using OWASP IoT Top 10 framework. The project involves firmware examination, network traffic inspection, and penetration testing in a controlled lab, with a SOC-focused approach to monitoring logs and detecting anomalous device behaviour to identify vulnerabilities and propose practical mitigation strategies for improved IoT security.
 
